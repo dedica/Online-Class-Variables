@@ -16,12 +16,7 @@ which will output the sentence:
 <strong><em>Welcome to PHP!</strong></em>. 
 */
 
-
-
 /*
-+---+
-| 2 |
-+---+
 Declare the variable <strong><em>greeting</em></strong>, 
 assign it with the created expression. 
 */
@@ -34,7 +29,7 @@ Print <strong><em>greeting</em></strong>.
 
 /* 
 +---+
-| 3 |
+| 2 |
 +---+
 Declare variable named <strong><em>firstName</strong></em> and 
 assign it with the value of your first name.
@@ -79,7 +74,7 @@ Print <strong><em>assembled</strong></em>.
 
 /*
 +---+
-| 4 |
+| 3 |
 +---+
 */
 </pre>
