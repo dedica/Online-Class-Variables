@@ -57,9 +57,7 @@ assign it with the year of your birthday (number).
 Use all of the variables above and create expression that will
 output the sentence reading:
 My name is _ _ _ _ _  _ _ _ _ _. My birthday is on _ _ of _ _ _ _ _,  _ _ _ _.
-*/
 
-/*
 Declare variable named <strong><em>assembled</strong></em> and 
 assign it with the chained (concatenated) expression above.
 */
