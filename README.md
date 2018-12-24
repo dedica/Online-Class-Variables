@@ -1,7 +1,7 @@
 # Online Class: Variables
 
 ```
-// 1. Declare the variable named _language_ and assign it with value _PHP_
+// 1. Declare the variable named _language_ and assign it with value <b>PHP_
 
 // 2. Declare the variable _greeting_
 
