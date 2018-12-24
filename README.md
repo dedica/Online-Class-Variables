@@ -14,11 +14,9 @@ Combine (chain or concatenate) <strong><em>language</em></strong>
 with the string literal to create the expression 
 which will output the sentence: 
 <strong><em>Welcome to PHP!</strong></em>. 
-*/
 
-/*
 Declare the variable <strong><em>greeting</em></strong>, 
-assign it with the created expression. 
+assign it with the created expression.
 */
 
 /*
