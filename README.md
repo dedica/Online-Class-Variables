@@ -17,6 +17,7 @@ which will output the sentence:
 */
 
 
+
 /*
 +---+
 | 2 |
@@ -28,6 +29,8 @@ assign it with the created expression.
 /*
 Print <strong><em>greeting</em></strong>.
 */
+
+
 
 /* 
 +---+
@@ -71,5 +74,12 @@ assign it with the chained (concatenated) expression above.
 /*
 Print <strong><em>assembled</strong></em>.
 */    
-// 4. 
+
+
+
+/*
++---+
+| 4 |
++---+
+*/
 </pre>
