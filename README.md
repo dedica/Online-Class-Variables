@@ -31,7 +31,7 @@
       
       Use all of the variables above and create expression that will
       output the sentence reading:
-      My name is ________ ________. I birthday is on __ of ________, ____.
+      My name is ________ ________. My birthday is on __ of ________, ____.
       
       Declare variable named <strong><em>intro</strong></em> and 
       assign it with the chained (concatenated) expression above.
