@@ -33,8 +33,8 @@
       output the sentence reading:
       My name is ________ ________. My birthday is on __ of ________, ____.
       
-      Declare variable named <strong><em>intro</strong></em> and 
+      Declare variable named <strong><em>assembled</strong></em> and 
       assign it with the chained (concatenated) expression above.
 
-      Print <strong><em>intro</strong></em>.
+      Print <strong><em>assembled</strong></em>.
 </pre>
