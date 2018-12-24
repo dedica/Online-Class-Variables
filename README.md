@@ -1,9 +1,9 @@
 # Online Class: Variables
 
 <pre>
-// 1. Declare the variable named _language_ and assign it with value <b>PHP_
+// 1. Declare the variable named <em>language</em> and assign it with value <em>PHP</em>
 
-// 2. Declare the variable _greeting_
+// 2. Declare the variable <em>greeting</em>
 
 // 2. Print the sentence: PHP stands for "Hypertext Preprocessor"!
 
