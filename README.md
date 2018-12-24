@@ -14,14 +14,27 @@
       
       Print <strong><em>greeting</em></strong>.
 
+// 3. Declare variable named <strong><em>firstName</strong></em> and 
+      assign it with the value of your first name.
+      
+      Declare variable named <strong><em>lastName</strong></em> and 
+      assign it with the value of your last name.
 
-// 3. 
+      Declare variable named <strong><em>day</strong></em> and 
+      assign it with the day of your birthday (number).
+      
+      Declare variable named <strong><em>month</strong></em> and 
+      assign it with the month of your birthday (string).
+      
+      Declare variable named <strong><em>year</strong></em> and 
+      assign it with the year of your birthday (number).
+      
+      Use all of the variables above and create expression that will
+      output the sentence reading:
+      My name is ________ ________. I birthday is on __ of ________, ____.
+      
+      Declare variable named <strong><em>intro</strong></em> and 
+      assign it with the chained (concatenated) expression above.
 
-
-
-
-
-
-
-
+      Print <strong><em>intro</strong></em>.
 </pre>
