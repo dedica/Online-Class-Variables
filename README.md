@@ -93,4 +93,40 @@ Declare the variable <strong><em>area</strong></em> and assign it with the produ
 /*
 Print <strong><em>area</strong></em>.
 */
+
+
+
+/*
++---+
+| 4 |
++---+
+Description: Printing the price of product including the tax and delivery.
+*/
+
+/*
+Declare the variable <strong><em>product</strong></em> and assign it with <strong><em>armchair</strong></em>.
+*/
+
+/*
+Declare the variable <strong><em>price</strong></em> and assign it with <strong><em>249.00</strong></em>.
+*/
+
+/*
+Declare the variable <strong><em>tax</strong></em> and assign it with <strong><em>13% (0.13)</strong></em>.
+*/
+
+/*
+Declare the variable <strong><em>delivery</strong></em> and assign it with <strong><em>5% (0.05)</strong></em>.
+*/
+
+/*
+Use <strong><em>price</strong></em>, <strong><em>tax</strong></em> and <strong><em>delivery</strong></em> to create the expression that will output the price after the tax and delivery.
+
+Declare the variable <strong><em>total</strong></em> and assign it with the expression gotten from the previous step.
+*/
+
+/*
+Concatenate the variables and string literals to print the statement:
+armchair: $295.44
+*/
 </pre>
