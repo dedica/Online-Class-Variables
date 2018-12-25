@@ -127,6 +127,6 @@ Declare the variable <strong><em>total</strong></em> and assign it with the expr
 
 /*
 Concatenate the variables and string literals to print the statement:
-armchair: $295.44
+<strong><em>armchair: $295.44</strong></em>
 */
 </pre>
