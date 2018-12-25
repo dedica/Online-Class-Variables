@@ -79,15 +79,15 @@ Calculate and print the area of the rectangle below:
  |                            |
  +----------------------------+
  
-Declare the variable <strong><em>length</strong></em> and assign it with the value specified on the figure.
+Declare the variable <strong><em>length</strong></em> and assign it with the specified value.
 */
 
 /*
-Declare the variable <strong><em>width</strong></em> and assign it with the value specified on the figure.
+Declare the variable <strong><em>width</strong></em> and assign it with the specified value.
 */
 
 /*
-Declare the variable <strong><em>area</strong></em> and assign it with the product of length and width.
+Declare the variable <strong><em>area</strong></em> and assign it with the product of <strong><em>length</strong></em> and <strong><em>width</strong></em>.
 */
 
 /*
