@@ -120,7 +120,8 @@ Declare the variable <strong><em>delivery</strong></em> and assign it with <stro
 */
 
 /*
-Use <strong><em>price</strong></em>, <strong><em>tax</strong></em> and <strong><em>delivery</strong></em> to create the expression that will output the price after the tax and delivery.
+Use <strong><em>price</strong></em>, <strong><em>tax</strong></em> and <strong><em>delivery</strong></em> 
+to create the expression that will output the price after the tax and delivery.
 
 Declare the variable <strong><em>total</strong></em> and assign it with the expression gotten from the previous step.
 */
@@ -144,4 +145,7 @@ It should be rendered like this:
 </figure>
 */
 </pre>
-
+<figure>
+  <img src="https://placehold.jp/24/e8d2ae/fff/300x300.png" alt="placeholder-image">
+  <figcaption> ... </figcaption>
+</figure>
