@@ -129,4 +129,20 @@ Declare the variable <strong><em>total</strong></em> and assign it with the expr
 Concatenate the variables and string literals to print the statement:
 <strong><em>armchair: $295.44</strong></em>
 */
+
+
+
+/*
++---+
+| 5 |
++---+
+Print the final statement from previous exercise in the following markup (including the placeholder image):
+<figure>
+  <img src="https://placehold.jp/24/e8d2ae/fff/300x300.png" alt="placeholder-image">
+  <figcaption> ... </figcaption>
+</figure>
+*/
 </pre>
+It should be rendered like this:
+![alt text](https://placehold.jp/24/e8d2ae/fff/300x300.png "Logo Title Text 1")
+
