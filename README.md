@@ -144,5 +144,5 @@ Print the final statement from previous exercise in the following markup (includ
 */
 </pre>
 It should be rendered like this:
-![alt text](https://placehold.jp/24/e8d2ae/fff/300x300.png "Logo Title Text 1")
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
