@@ -136,13 +136,12 @@ Concatenate the variables and string literals to print the statement:
 +---+
 | 5 |
 +---+
-Print the final statement from previous exercise in the following markup (including the placeholder image):
+Print the final statement from previous exercise in the following markup (including the placeholder image, <strong><em>armchair: $295.44</strong></em> should be contained by <strong><em>figcaption</strong></em> element):
+It should be rendered like this:
 <figure>
   <img src="https://placehold.jp/24/e8d2ae/fff/300x300.png" alt="placeholder-image">
   <figcaption> ... </figcaption>
 </figure>
 */
 </pre>
-It should be rendered like this:
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
