@@ -72,5 +72,25 @@ Print <strong><em>assembled</strong></em>.
 +---+
 | 3 |
 +---+
+Calculate and print the area of the rectangle below:
+ +------------6.5-------------+
+ |                            |
+3.5                           |
+ |                            |
+ +----------------------------+
+ 
+Declare the variable <strong><em>length</strong></em> and assign it with the value specified on the figure.
+*/
+
+/*
+Declare the variable <strong><em>width</strong></em> and assign it with the value specified on the figure.
+*/
+
+/*
+Declare the variable <strong><em>area</strong></em> and assign it with the product of length and width.
+*/
+
+/*
+Print <strong><em>area</strong></em>.
 */
 </pre>
