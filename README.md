@@ -25,6 +25,10 @@ Print <strong><em>greeting</em></strong>.
 
 
 
+
+// task separator
+echo "<hr style=\"margin 1rem 0\">";
+
 /* 
 +---+
 | 2 |
@@ -68,6 +72,10 @@ Print <strong><em>assembled</strong></em>.
 
 
 
+
+// task separator
+echo "<hr style=\"margin 1rem 0\">";
+
 /*
 +---+
 | 3 |
@@ -95,6 +103,10 @@ Print <strong><em>area</strong></em>.
 */
 
 
+
+
+// task separator
+echo "<hr style=\"margin 1rem 0\">";
 
 /*
 +---+
@@ -132,6 +144,10 @@ Concatenate the variables and string literals to print the statement:
 */
 
 
+
+
+// task separator
+echo "<hr style=\"margin 1rem 0\">";
 
 /*
 +---+
