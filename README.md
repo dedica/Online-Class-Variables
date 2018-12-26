@@ -27,7 +27,7 @@ Print <strong><em>greeting</em></strong>.
 
 
 // task separator
-echo "<hr style=\"margin 1rem 0\">";
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /* 
 +---+
@@ -74,7 +74,7 @@ Print <strong><em>assembled</strong></em>.
 
 
 // task separator
-echo "<hr style=\"margin 1rem 0\">";
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
@@ -106,7 +106,7 @@ Print <strong><em>area</strong></em>.
 
 
 // task separator
-echo "<hr style=\"margin 1rem 0\">";
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
@@ -147,7 +147,7 @@ Concatenate the variables and string literals to print the statement:
 
 
 // task separator
-echo "<hr style=\"margin 1rem 0\">";
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 /*
 +---+
